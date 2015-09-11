@@ -1,0 +1,14 @@
+{
+  "name": "cart",
+  "version": "1.0.0",
+  "description": "Shopping Cart with React,Flux, Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Vijay Thangavel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
